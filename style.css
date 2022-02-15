@@ -1,24 +1,32 @@
+body {
+  text-align: center;
+}
+
 h1 {
-  color:blue;
-  font-size:24px;
+  color:#95A5A6;
+  font-size:20px;
+  font-weight:500;
+  outline-style:dashed;
+  outline-color:#95A5A6;
 }
 
 h2 {
-  color:red;
-  font-family:verdana;
+  font-family:Blippo, fantasy;
 }
 
 p {
-  color:
-  font-family:
-  border-style:
-  border-width:
+  font-family:Luminari, fantasy;
 }
 
 img {
-  color:
-  font-family:
-  border-style:
-  border-width:
+  color: red;
+  border-width:2px;
 }
 
+.line {
+border-left: 4px solid red;
+}
+
+.poemLine {
+  border-style: outset;
+}
