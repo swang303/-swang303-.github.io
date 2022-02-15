@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  background-color:#F4F8F7；
 }
 
 h1 {
@@ -11,15 +12,16 @@ h1 {
 }
 
 h2 {
-  font-family:Blippo, fantasy;
+  font-family:Apple Chancery, cursive;
+  font-size:30px;
 }
 
 p {
-  font-family:Luminari, fantasy;
+  font-family:monospace;
 }
 
 img {
-  color: red;
+  color: grey;
   border-width:2px;
 }
 
