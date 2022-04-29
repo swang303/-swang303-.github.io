@@ -6,6 +6,9 @@ body {
     font-family: Arial;
     margin: 0;
 }
+p {
+    width: 800px;
+}
 
 .header {
     padding: 80px;
@@ -21,12 +24,15 @@ body {
 }
 	h1 {
     font-family: Cursive;
+     font-size: 60px;
 }
 	h3 {
     font-family: Cursive;
+         font-size: 20px;
 }
 	h2 {
     font-family: Cursive;
+         font-size: 40px;
 }
 
 .row {  
