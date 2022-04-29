@@ -42,6 +42,13 @@ body {
     padding: 20px;
 }
 
+.side a {
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
 .side a:hover {
     background-color: #90C7CE;
     color: white;
