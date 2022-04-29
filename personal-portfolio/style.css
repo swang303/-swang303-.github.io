@@ -1,4 +1,4 @@
-{
+	{
     box-sizing: border-box;
 }
 
@@ -16,7 +16,16 @@ body {
 
 .header h1 {
     font: bold;
-    font-size: 40px;
+    font-size: 140px;
+    font-family: Cursive;
+}
+	h1 {
+    font-family: Cursive;
+}
+	h3 {
+    font-family: Cursive;
+}
+	h4 {
     font-family: Cursive;
 }
 
@@ -28,12 +37,8 @@ body {
 }
  
 .side {
-    -ms-flex: 30%; 
-    flex: 30%;
     height: 100%;
-    width:210px;
-    float:left;
-    background-color: #F9F6F9;
+    background-color: #F1EAF1;
     padding: 20px;
 }
 
@@ -43,10 +48,8 @@ body {
 }
 
 .main {   
-    -ms-flex: 70%; 
-    flex: 70%;
+	text-align: center;
     height: 100%;
-    margin-left:210px;
     background-color: white;
     padding: 20px;
 }
@@ -69,7 +72,3 @@ body {
         width: 100%;
     }
 }
-
-
-
-
